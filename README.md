@@ -7,7 +7,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/sblrm?label=Follow&style=social)](https://github.com/sblrm)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sblrm)](https://linkedin.com/in/sblrm)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Cloud+&+Cyber+Enthusiast;Fullstack+Development;It's+all+about+consistency;Long-life+Learning)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Cloud+and+Cyber+Enthusiast;Fullstack+Development;It's+all+about+consistency;Long-life+Learning)](https://git.io/typing-svg)
 </div>
 
 ---
