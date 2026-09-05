@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/assets/hero-image.png" alt="Sabilillah Ramaniya Widodo" width="200" style="border-radius: 50%;" />
+  <img src="public/assets/person-image.png" alt="Sabilillah Ramaniya Widodo" width="200" style="border-radius: 50%;" />
   
   # 👋 Hi, I'm Sabilillah Ramaniya Widodo
   ### Cloud DevOps Engineer & IT Security
